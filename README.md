@@ -17,6 +17,6 @@ Group TodoList は、複数人のグループで共有する ToDo リストを�
 ## スクリーンショット
 
 ### 新規登録・ログイン
-![Login](doc/images/login.gif)
+![Login](docs/images/login.gif)
 
 ### 
