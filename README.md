@@ -27,7 +27,7 @@ Group TodoList は、複数人のグループで共有する ToDo リストを�
 
 ### グループ
 ## グループ検索
-!![Search](docs/images/search.png)
+![Search](docs/images/search.png)
 ## グループページ
 ![Page](docs/images/group.png)
 ## 管理者ぺージ
