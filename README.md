@@ -19,4 +19,20 @@ Group TodoList は、複数人のグループで共有する ToDo リストを�
 ### 新規登録・ログイン
 ![Login](docs/images/login.gif)
 
-### 
+### TODO・MEMO操作
+## TODO操作
+![Todo](docs/images/todo.gif) 
+## MEMO操作
+![Memo](docs/images/memo.gif)
+
+### グループ
+## グループ検索
+!![Search](docs/images/search.png)
+## グループページ
+![Page](dcs/images/group.png)
+## 管理者ぺージ
+![Admin](dcs/images/admin.png)
+
+
+
+
